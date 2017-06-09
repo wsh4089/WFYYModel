@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WFYYModel_Example' do
+  pod 'WFYYModel', :path => '../'
+
+  target 'WFYYModel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
