@@ -1,0 +1,19 @@
+PODS:
+  - WFYYModel (0.1.0):
+    - YYModel (= 1.0.4)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - WFYYModel (from `../`)
+
+EXTERNAL SOURCES:
+  WFYYModel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WFYYModel: 54a307d14b24da184c0c140b110a1b696e57c724
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 319b4c0c125ca6bcdd6de2ef5dd43ec4403a4b0f
+
+COCOAPODS: 1.2.1

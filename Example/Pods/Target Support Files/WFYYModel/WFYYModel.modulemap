@@ -1,0 +1,6 @@
+framework module WFYYModel {
+  umbrella header "WFYYModel-umbrella.h"
+
+  export *
+  module * { export * }
+}
